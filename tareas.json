@@ -1,0 +1,42 @@
+[
+    {
+        "titulo": "desayunar",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "comer",
+        "estado": "enproceso"
+    },
+    {
+        "titulo": "hacerEjercicios",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "estudiar",
+        "estado": "enproceso"
+    },
+    {
+        "titulo": "VerPlayground",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "limpiar",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "comprar",
+        "estado": "enproceso"
+    },
+    {
+        "titulo": "ordenar",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "correr",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "dormir",
+        "estado": "Pendiente"
+    }
+]
